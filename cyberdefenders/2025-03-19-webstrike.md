@@ -1,3 +1,10 @@
+---
+title: Webstrike
+date: 2025-03-19 17:10:00 +0300
+category: [Cyberdefender]
+tag: [pcap]
+---
+
 # Webstrike
 
 ![alt text](image-9.png)
