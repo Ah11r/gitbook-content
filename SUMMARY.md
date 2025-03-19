@@ -10,6 +10,7 @@
   * [The Power of Group Policy Objects - GPOs](_posts/2024-01-08-group-policy-management.md)
 * [Cyberdefenders](cyberdefenders/README.md)
   * [Red Stealer Blue Team Lab](cyberdefenders/2024-07-23-redstealer.md)
+  * [Webstrike](cyberdefenders/2025-03-19-webstrike.md)
 * [BTLO](btlo/README.md)
   * [Deep Blue](btlo/2023-09-09-deepblue.md)
   * [BTLO - Phishing Analysis](btlo/2023-10-02-phishing.md)
