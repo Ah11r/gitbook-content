@@ -11,6 +11,7 @@
 * [Cyberdefenders](cyberdefenders/README.md)
   * [Red Stealer Blue Team Lab](cyberdefenders/2024-07-23-redstealer.md)
   * [Webstrike](cyberdefenders/2025-03-19-webstrike.md)
+  * [WireDive](cyberdefenders/2025-03-19-wiredive.md)
 * [BTLO](btlo/README.md)
   * [Deep Blue](btlo/2023-09-09-deepblue.md)
   * [BTLO - Phishing Analysis](btlo/2023-10-02-phishing.md)
