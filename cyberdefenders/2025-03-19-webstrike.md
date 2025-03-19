@@ -37,7 +37,7 @@ This gives us three packets to analyze. The first one attempted to upload a reve
 
 Q4: Identifying the directory where uploaded files are stored is crucial for locating the vulnerable page and removing any malicious files. Which directory is used by the website to store the uploaded files?
 
-By analyzing the http requests, we can see where the payload image was uploaded.
+By analyzing the http requests, it was easy to spot the directory of the uploaded files.
 
 ![alt text](image-5.png)
 
@@ -52,11 +52,6 @@ Q6: Recognizing the significance of compromised data helps prioritize incident r
 Having known the successful POST request, analyzing it's response tells us what file the attacker wanted.
 ![alt text](image-7.png)
 
-The `/etc/passwd/` file must have been the first goal. This file contains the password hashes for all the users. Having this, the attacker next move was privilege escalation.
+The `/etc/passwd/` file must have been the first goal for the attacker. This file contains the password hashes for all the users. Having this, the attacker's next move would definitely be privilege escalation.
 
 ![alt text](image-8.png)
-
-I successfully completed WebStrike Blue Team Lab at @CyberDefenders!
-https://cyberdefenders.org/blueteam-ctf-challenges/progress/SirH/149/ 
-
-#CyberDefenders #CyberSecurity #BlueYard #BlueTeam #InfoSec #SOC #SOCAnalyst #DFIR
