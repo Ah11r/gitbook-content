@@ -11,8 +11,7 @@
 * [Cyberdefenders](cyberdefenders/README.md)
   * [Red Stealer Blue Team Lab](cyberdefenders/2024-07-23-redstealer.md)
   * [Webstrike](cyberdefenders/2025-03-19-webstrike.md)
-  <!-- * [WireDive](cyberdefenders/2025-03-19-wiredive.md) -->
-  * [PoisonedCredentials](cyberdefenders/2025-03-20-poisoned-creds.md) 
+  * [PoisonedCredentials](cyberdefenders/2025-03-20-poisoned-creds.md)
   * [Oski](cyberdefenders/2025-03-25-oski.md)
 * [BTLO](btlo/README.md)
   * [Deep Blue](btlo/2023-09-09-deepblue.md)
@@ -42,5 +41,6 @@
     * [AD Forest Prerequisites](lab-setups/windows-ad-server/2023-12-31-vmwaretools.md)
     * [How to create an AD Forest](lab-setups/windows-ad-server/2023-12-31-adforest.md)
     * [Hide Recyclebin Icon using GPO](lab-setups/windows-ad-server/2024-01-08-gpo-hands-on.md)
-  * [Home SOC Lab](lab-setups/home-soc-lab.md)
+  * [Home SOC Lab](lab-setups/home-soc-lab/README.md)
+    * [Updating Wazuh Running Docker](lab-setups/home-soc-lab/updating-wazuh-running-docker.md)
   * [Phishing Simulation Lab](lab-setups/phishing-simulation-lab.md)
