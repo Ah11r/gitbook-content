@@ -4,7 +4,7 @@ icon: hand-wave
 
 # Whois Sir Hiira
 
-{% embed url="https://canva.link/944r54fqlespqps" %}
+{% file src=".gitbook/assets/SAMUEL_HIIRAMURIITHI_Resume0626.pdf" %}
 
 Linkedin: [https://www.linkedin.com/in/samuel-hiira-muriithi/](https://www.linkedin.com/in/samuel-hiira-muriithi/)
 
