@@ -44,3 +44,4 @@
   * [Home SOC Lab](lab-setups/home-soc-lab/README.md)
     * [Updating Wazuh Running Docker](lab-setups/home-soc-lab/updating-wazuh-running-docker.md)
   * [Phishing Simulation Lab](lab-setups/phishing-simulation-lab.md)
+  * [SOCHub](lab-setups/sochub.md)

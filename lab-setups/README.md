@@ -1,4 +1,7 @@
+---
+description: This page contains all my home lab work.
+---
+
 # Hands On Work
 
-{% file src="../.gitbook/assets/SOC-Platform-Documentation.md" %}
-
+I document everything I do here.
