@@ -29,7 +29,7 @@ Each service communicates using Docker DNS (container hostnames) rather than IP 
 
 **High-Level Architecture**
 
-<figure><img src="../.gitbook/assets/soc-platform-architecture-v2.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/soc-platform-architecture-v2.webp" alt=""><figcaption></figcaption></figure>
 
 | Layer               | Components                                                                                                             |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------- |

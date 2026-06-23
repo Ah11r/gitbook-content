@@ -43,5 +43,5 @@
     * [Hide Recyclebin Icon using GPO](lab-setups/windows-ad-server/2024-01-08-gpo-hands-on.md)
   * [Home SOC Lab](lab-setups/home-soc-lab/README.md)
     * [Updating Wazuh Running Docker](lab-setups/home-soc-lab/updating-wazuh-running-docker.md)
+    * [SOCHub](lab-setups/home-soc-lab/sochub.md)
   * [Phishing Simulation Lab](lab-setups/phishing-simulation-lab.md)
-  * [SOCHub](lab-setups/sochub.md)
