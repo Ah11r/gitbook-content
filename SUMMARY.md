@@ -34,6 +34,7 @@
   * [UnderTheWire](wargames/underthewire/README.md)
     * [Century 1 - 3](wargames/underthewire/2023-12-24-under_the_wire.md)
     * [Century 4-8](wargames/underthewire/2023-12-24-under_the_wire2.md)
+* [OpenCTI Deployment & Integration](opencti-deployment-and-integration.md)
 * [Hands On Work](lab-setups/README.md)
   * [Windows AD Server Setup](lab-setups/windows-ad-server/README.md)
     * [Windows Server 2022 Prerequisites](lab-setups/windows-ad-server/2023-12-17-server-prequisites.md)
