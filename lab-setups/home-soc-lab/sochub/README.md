@@ -2,7 +2,7 @@
 
 > **A Complete Technical Guide**\
 > Wazuh • Graylog • CoPilot • DFIR-IRIS • Docker Compose • GCP • OpenSearch\
-> &#xNAN;_&#x4D;ay 2026_
+> _&#x4D;ay 2026_
 
 ## 1. Introduction & Objectives
 
@@ -29,7 +29,7 @@ Each service communicates using Docker DNS (container hostnames) rather than IP 
 
 **High-Level Architecture**
 
-<figure><img src="../../.gitbook/assets/soc-platform-architecture-v2.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/soc-platform-architecture-v2.webp" alt=""><figcaption></figcaption></figure>
 
 | Layer               | Components                                                                                                             |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
