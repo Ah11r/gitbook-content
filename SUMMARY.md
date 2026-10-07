@@ -47,5 +47,7 @@
   * [Home SOC Lab](lab-setups/home-soc-lab/README.md)
     * [Updating Wazuh Running Docker](lab-setups/home-soc-lab/updating-wazuh-running-docker.md)
     * [SOCHub](lab-setups/home-soc-lab/sochub/README.md)
-      * [SOC Fort Backup & Recovery](lab-setups/home-soc-lab/sochub/soc-fort-backup-and-recovery.md)
+      * [SOC Fort Backup & Recovery](lab-setups/home-soc-lab/sochub/soc-fort-backup-and-recovery/README.md)
+        * [Actual Recovery Steps](lab-setups/home-soc-lab/sochub/soc-fort-backup-and-recovery/actual-recovery-steps.md)
+      * [SOC Fort Backup & Recovery II](lab-setups/home-soc-lab/sochub/soc-fort-backup-and-recovery-ii.md)
   * [Phishing Simulation Lab](lab-setups/phishing-simulation-lab.md)
